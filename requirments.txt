@@ -1,0 +1,5 @@
+mediapipe
+cv2
+time
+transformers
+streamlit
